@@ -3,9 +3,11 @@
 Unsupervised Learning for Image Registration based on Adversarial Similarity Network
 
 [1] Fan, J., Cao, X., Xue, Z., Yap, P.T., Shen, D., Adversarial similarity network for evaluating image alignment in deep learning based registration, International Conference on Medical Image Computing and Computer-Assisted Intervention, Springer. pp. 739–746.
+
 [2] Fan, J., Cao, X., Xue Z., Yap, P.T., Wang, Q., Shen D.,  Adversarial Learning for Mono- or Multi-Modal Registration, Medical Image Analysis, 2019; 58:101545.
 
 This is a full-image-based implementation (Python 2.7) of the proposed method, modified from "voxelmorph" framework.
+
 [3] Balakrishnan,  G.,  Zhao,  A.,  Sabuncu,  M.R.,  Guttag,  J.,  Dalca,  A.V., An unsupervised learning model for deformable medical image registration, Proceedings of the IEEE Conference on Computer Vision and PatternRecognition, pp. 9252–9260.
 
 ## Files
